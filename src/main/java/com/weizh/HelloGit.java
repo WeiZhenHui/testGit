@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("new barch - dev");
 		System.out.println("master update");
 		System.out.println("dev update");
+		System.out.println("master update again");
 	}
 
 }
