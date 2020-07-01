@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("master update");
 		System.out.println("dev update");
 		System.out.println("master update again");
+		System.out.println("update in eclipse");
 	}
 
 }
