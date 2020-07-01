@@ -1,7 +1,7 @@
 package com.weizh;
 /**
  * @author: weizhenhui
- * @date: 2020年7月1日, 下午7:53:53
+ * @date: 2020脛锚7脭脗1脠脮, 脧脗脦莽7:53:53
 */
 public class HelloGit {
 
@@ -13,6 +13,7 @@ public class HelloGit {
 		System.out.println("dev update");
 		System.out.println("master update again");
 		System.out.println("update in eclipse");
+		System.out.println("update in github");
 	}
 
 }
