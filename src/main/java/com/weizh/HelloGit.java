@@ -10,7 +10,7 @@ public class HelloGit {
 		System.out.println("update 001");
 		System.out.println("new barch - dev");
 		System.out.println("master update");
-		
+		System.out.println("dev update");
 	}
 
 }
